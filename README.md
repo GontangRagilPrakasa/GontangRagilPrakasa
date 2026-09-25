@@ -1,5 +1,13 @@
 <div align="center">
 
+<img
+  src="./assets/Gemini_Generated_Image_b4uzoeb4uzoeb4uz.jpg"
+  width="100%"
+  alt="Gontang Ragil Prakasa"
+/>
+
+<br><br>
+
 # Gontang Ragil Prakasa
 
 ### Senior Software Engineer | Backend & Fullstack Engineer
@@ -10,8 +18,11 @@ Building scalable software, distributed systems, and reliable integrations.
   <a href="https://www.linkedin.com/in/gontang-ragil-prakasa-65766b131/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/gontang">
+  <a href="https://github.com/GontangRagilPrakasa">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://gontangragilprakasa.com/">
+    <img src="https://img.shields.io/badge/Website-Portfolio-orange?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
 
