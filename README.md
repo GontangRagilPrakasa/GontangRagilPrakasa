@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="./assets/Gemini_Generated_Image_b4uzoeb4uzoeb4uz.jpg"
+  src="./assets/banner.jpg"
   width="100%"
   alt="Gontang Ragil Prakasa"
 />
